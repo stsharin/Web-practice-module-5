@@ -1,0 +1,22 @@
+.container{
+    background-color: lightblue;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: lightgray;
+}
+.first{
+    background-color: forestgreen;
+}
+.second{
+    background-color: greenyellow;
+    left: 100px;
+    /* position: relative; */
+    /* position: absolute; */
+    position: fixed;
+    /* top: 100px; */
+}
+.third{
+    background-color: hotpink;
+}

@@ -1,0 +1,11 @@
+.name{
+    color: darkgoldenrod;
+}
+h1{
+    /* bang important */
+    /* specificity */
+    color: cyan !important;
+}
+#obama{
+    color: darkolivegreen;
+}
